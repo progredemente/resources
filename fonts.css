@@ -1,0 +1,11 @@
+@font-face {
+  font-family: ComicTypo;
+  src: url('./comic_typo.ttf');
+}
+
+@font-face {
+  font-family: ComicIcons;
+  src: url('./comic_icons.ttf');
+}
+
+
