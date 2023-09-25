@@ -1,0 +1,10 @@
+.prg-button {
+  background-color: var(--prg-button-background-color);
+  border: 0;
+  color: var(--prg-button-text-color);
+  margin: 10px;
+  padding: 10px 20px;
+  text-align: center;
+  border-radius: 10px;
+  cursor: pointer;
+}
