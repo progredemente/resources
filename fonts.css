@@ -8,4 +8,9 @@
   src: url('./comic_icons.ttf');
 }
 
+@font-face {
+  font-family: ComicTypoJap;
+  src: url('./comic_typo_jap.ttf');
+}
+
 
